@@ -1,0 +1,1 @@
+' UNION SELECT {value1},'' from {value2} WHERE {value3} LIKE '{value4}' AND {value5}--

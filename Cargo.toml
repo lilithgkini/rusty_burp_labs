@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+	"SQLi_time",
+	"SQLi_union",
+	"SQLi_conditonal",
+	"get_labs",
+	"gift_cards",
+	"integer_overflow",
+	"Libraries/sqli",
+	"Libraries/my_request",
+]

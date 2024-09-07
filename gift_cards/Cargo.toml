@@ -1,0 +1,10 @@
+[package]
+name = "gift_cards"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+my_request = { path = "../Libraries/my_request" }
+clap = { version = "4.5.16", features = ["derive"] }
+tokio = { version = "1.39.3", features = ["full"] }
+anyhow = "1.0.86"

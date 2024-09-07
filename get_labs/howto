@@ -1,0 +1,1 @@
+cargo r -- mystery -f categories|xclip -i -select c
